@@ -52,18 +52,31 @@ I tried forteen different models and evaluated them using Root Mean Squared Erro
 Different models I tried:
 
 LinearRegression :  2875.378820303944
+
 ElasticNet : 3520.7455916655294
+
 Lasso :  2877.470296686765
+
 Ridge :  2878.8315343543945
+
 KNeighborsRegressor :  3037.051412069077
+
 DecisionTreeRegressor :  2517.5464343595067
+
 RandomForestRegressor :  2133.0061133326553
+
 SVR :  4643.370521026606
+
 AdaBoostRegressor :  3560.9647073251294
+
 GradientBoostingRegressor :  2106.297313980016
+
 ExtraTreeRegressor :  2509.9116852422344
+
 HuberRegressor :  3158.177092463484
+
 XGBRegressor :  1818.4249893522529
+
 BayesianRidge :  2875.1706769559164
 
 XGBRegressor, RandomForestRegressor and GradientBoostingRegressor gave the lowest RMSE so I chose these model and performed hyper parameter tuning
