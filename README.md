@@ -96,5 +96,7 @@ In this step, I built a flask API endpoint that was hosted on a local webserver.
 # UI
 
 ![image](https://user-images.githubusercontent.com/84179246/133458342-31d45e98-bbbd-4e6d-909e-c1f36799398c.png)
+![image](https://user-images.githubusercontent.com/84179246/133468298-34d33672-6f46-4976-a839-cac4ce0dfeb8.png)
+
 
 
