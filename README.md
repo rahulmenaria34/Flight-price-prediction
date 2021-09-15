@@ -93,4 +93,8 @@ Root Mean Squared Error: 2039.027454008712
 
 In this step, I built a flask API endpoint that was hosted on a local webserver. The API endpoint takes in a request with a list of values from a flight and returns an estimated price.
 
+# UI
+
+![image](https://user-images.githubusercontent.com/84179246/133458342-31d45e98-bbbd-4e6d-909e-c1f36799398c.png)
+
 
