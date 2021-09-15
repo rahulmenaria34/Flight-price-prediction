@@ -5,7 +5,7 @@ import pickle
 import pandas as pd
 
 app = Flask(__name__)
-model = pickle.load(open("final_model.pkl", "rb"))
+model = pickle.load(open("final_model_jupyter.pkl", "rb"))
 
 
 @app.route("/")
